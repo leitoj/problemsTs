@@ -5,5 +5,3 @@ const isPalindrome = (word:string) => {
     }
     return false;
 }
-
-console.log(isPalindrome("Eva can I see bees in a cave"))
